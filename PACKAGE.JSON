@@ -1,17 +1,20 @@
 {
-  "name": "coolnodeapp",
+  "name": "mycoolnodeapp",
   "version": "1.0.0",
-  "description": "node app ",
-  "homepage": "https://github.com/chinhle/coolnodeapp#readme",
+  "description": "",
+  "homepage": "https://github.com/nubibo123/MyCoolNodeApp#readme",
+  "bugs": {
+    "url": "https://github.com/nubibo123/MyCoolNodeApp/issues"
+  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chinhle/coolnodeapp.git"
+    "url": "git+https://github.com/nubibo123/MyCoolNodeApp.git"
   },
   "license": "ISC",
-  "author": "chinhle",
+  "author": "",
   "type": "commonjs",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
